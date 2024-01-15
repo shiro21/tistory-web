@@ -8,7 +8,7 @@ NextJS 블로그 | 기간: 2023.02.02 ~
 - 참고: 티스토리
 
 ## Front End Domain
-https://next-blog-phm9kn2ov-shiro21.vercel.app/
+https://tistory-6mfxku829-shiro21.vercel.app/
 
 ## Tool
 - Front-End: NextJS ( TypeScript )
